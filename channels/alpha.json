@@ -1,0 +1,21 @@
+{
+  "schema": 1,
+  "channel": "alpha",
+  "version": "0.1.0a1",
+  "tag": "alpha-0.1.0a1",
+  "published_at": "2026-10-05T20:09:01Z",
+  "min_launcher_version": "0.0.0",
+  "notes_url": "https://github.com/CleverSystemsLTDA/button-panel-lite-Release/releases/tag/alpha-0.1.0a1",
+  "assets": {
+    "x64": {
+      "url": "https://github.com/CleverSystemsLTDA/button-panel-lite-Release/releases/download/alpha-0.1.0a1/button-panel-lite-x64.zip",
+      "sha256": "bef3cb9345acca09a03393584e5cc1644244baad1604363149b2d1427b88c721",
+      "size": 23099341
+    },
+    "x86": {
+      "url": "https://github.com/CleverSystemsLTDA/button-panel-lite-Release/releases/download/alpha-0.1.0a1/button-panel-lite-x86.zip",
+      "sha256": "91e009fc55da6ec8259aba04e4ef5459e5e3bcc53d903fb277290d771eb5f6f7",
+      "size": 19879159
+    }
+  }
+}
